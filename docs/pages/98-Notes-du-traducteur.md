@@ -15,6 +15,9 @@ Défi | Challenge
 Face à Face | Contest
 Tâche | Task
 Progression | Teaching Moment
+Combat | Combat
+Dommage | Damage
+Blessé | Hurt
 
 
 

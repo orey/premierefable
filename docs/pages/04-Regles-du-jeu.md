@@ -79,6 +79,72 @@ Certains Trucs Spéciaux disparaissent complètement une fois que toutes les Eto
 
 _Exemple n°1_
 
+Ruby est dans les bois, à la recherche de l'enfant perdu, quand un ours affamé s'approche. Elle a peur, mais elle sait que l'ours ne l'attaquera pas si elle sait se rendre effrayante. Elle se met sur la pointe des pieds et hurle en direction de l'ours. La GP décide qu'un Face à Face de Force est requis. L'ours a une Force de 5 et Teagan, qui est inquiète car Ruby n'a qu'une force de 3, décide d'utiliser son Truc Spécial : Flamboyante, le chat des bois au grognement puissant. Flamboyante a 5 Etoiles pour l'aventure complète, et Teagan ne veut pas toutes les utiliser maintenant, et elle ne souhaite pas se battre avec l'ours. Elle utilise 2 Etoiles de Flamboyante et fait son jet de Force. Elle bat l'ours de une Etoile et l'ours se retire. Il reste maintenant 3 Etoiles à Flamboyante pour le reste de l'aventure.
+
+_Exemple n°2_
+
+Roland, le Chevalier, chevauche dans un pré avec un message pour son seigneur. Il entend un enfant pleure et comme c'est un preux chevalier, il décide de tenter d'aider. Il sort son Epée Magique de son fourreau (son Truc Spécial) et la pointe sur le proche Bois des Gobelins, disant à son épée "Montre-moi l'enfant qui pleure !" La GP décide que c'est une Tâche à accomplir : l'enfant n'est qu'à une courte distance à l'intérieur du bois, et Roland pourrait facilement le voir s'il passait le premier bosquet sur son cheval. L'épée se met à briller et les branches s'écartent légèrement, laissant Roland voir l'enfant. Le joueur de Roland n'a pas dépensé une seule Etoile de l'Epée Magique.
+
+_Exemple n°3_
+
+Blake, Le Pirate, est en visite chez sa mère quand son petit cousin disparaît dans le Bois des Gobelins.Blake se dit qu'il retrouvera bien son chemin pour rentrer, mais sa mère l'avertit que le Bois des Gobelins est un endroit dangereux et mystérieux. Le Tric Spécial de Blake est L'OEil de la Mer, une perle magique qui permet à Blake de voir des choses très lointaines. Blake soulève la pierre et regarde à l'intérieur, voulant voir le destin du garçon si lui-même n'aide pas.
+
+Ce n'est pas quelque chose que Blake peut faire de lui-même et par conséquent, il ne peut qu'utiliser des Etoiles de son Truc Spécial. Le joueur de Blake décide qu'une Etoile est probablement suffisante pour une situation comme celle-ci. La GP décrit la lente transformation du garçon en gobelin. Blake, horrifié, prend sa dague, enfile ses bottes, et court en direction du Bois.
+
+## Le Combat
+
+Un **Combat** est un type spécial de Défi. Un combat survient quand un personnage tente de blesser quelqu'un ou qu'il tente de protéger quelqu'un afin de lui éviter d'être blessé.
+
+> **Les combats réels**
+> 
+> Comme nous le savons tous, dans les combats réels, les gens sont blessés et meurent. Dans les films et à la télévision, un petit coup sur la tête et les gens sont "assommés", juste pour pouvoir se réveiller plus tard sans le moindre problème. Les gens se battent à l'épée ou au couteau, ou se battent avec de la magie, et, sauf si cela a un intérêt dramatique, personne n'est vraiment blessé.
+> 
+> Des choses de ce genre sont ce que l'on appelle communément un cliché. Ce n'est pas comme cela que les choses sont vraiment dans la réalité, et il est bien que les joueurs s'en rendent compte. Mais d'un autre côté, jouer des scènes de combat peut être amusant. Faut-il en avoir honte ?
+> 
+> Nous parlons un peu plus de la manière avec laquelle diriger des combats dans la section pour Grandes Personnes, ci-dessous, mais pour le moment, retenez juste que nos règles de Combat sont moins à propos de *causer des dommages* qu'à propos de *résoudre des Défis*.
+
+Les Combats sont presque comme des Face à Face. Ils utilisent généralement Force ou Vitesse (il n'est pas impossible pour quelqu'un d'utiliser Intelligence dans un Combat, spécialement lors de l'utilisation de la magie, mais la chose est peu commune ; normalement, les Combats sont des sujets impliquant les corps et non les esprits). Les personnages dans des combats peuvent être soit des attaquants, soit des défenseurs.
+
+Un *attaquant* utilise la Force si il ou elle utilise une massue, une grande hache, ou tout autre grande arme difficile à manier, s'il ou si elle lance un rocher, s'il ou si elle tente de frapper ou de lutter avec son opposant.
+
+Un *défenseur* utilise la Force s'il ou si elle tente d'ignore les **Dommages**, de faire fi des blessures plutôt que de les éviter.
+
+Un *attaquant* utilise la Vitesse si il ou elle fait des attaques rapides et ciblées, lançant des petits objets ou utilisant une arme légère de type dague ou fouet.
+
+Un *défenseur* utilise la Vitesse pour esquiver les attaques.
+
+Au début d'un Combat, tous les personnages décident de combien d'Etoiles ils sont prêts à prendre en tant que Dommages avant de quitter le Combat. Ce nombre est appelé les Dommages. Chaque joueur inscrit cette valeur sur un morceau de papier (le haut de la feuille de personnage fait bien l'affaire).
+
+Durant le Combat, si l'attaquant gagne, le défenseur doit retrancher de ses Dommages le nombre suivant :
+
+* Nombre d'Etoiles de l'attaquant - Nombre d'Etoiles du défenseur
+
+Une fois que le défenseur a encaissé un nombre d'Etoiles correspondant à ses Dommages, le défenseur sort du Combat. Cela signifie que le personnage est assommé, ou apeuré, ou a abandonné, ou toute autre raison que je jouer verra comme appropriée.
+
+Les joueurs peuvent fixer leurs Dommages à la valeur suivante :
+
+* Dommages maximum = Somme de toutes les Caractéristiques + Somme de tous les Talents
+
+Pour un nouveau personnage, le maximum de Dommages pouvant être fixé dans un Combat est 12 (9 pour les Caractéristiques et 3 pour les Talents. Mais fixer les Dommages aussi haut est risqué, car si un personnage endure plus de dommages que le maximum de son score dans une Caractéristique ou un Talent, le personnage devient **Blessé**.
+
+Les personnages Blessés :
+
+* Perdent 1 dé pour tous leurs Défis ;
+* Gagnent un Point Faible supplémentaire, basé sur la manière avec laquelle ils ont été blessés.
+
+Cependant, les personnages peuvent éviter d'être blessés. Si le personnage fixe ses Dommages à 3 (plus bas que sa Caractéritique la plua haute), alors le personnage sortira du combat après avoir encaissé 3 Dommages seulement. Comme ce score est plus bas que la plus haute Caractéristique pour un personnage débutant, ce n'est pas suffisant pour se faire blesser.
+
+Un personnage peut choisir de sortir du combat à tout moment, mais une fois que les dés sont lancés, les résultats sont appliqués. Cela signifie qu'un joueur ne peut pas lancer des dés pour se défendre, ne pas obtenir d'Etoiles et ensuite sortir du Combat sans conséquence.
+
+Les personnages peuvent se défendre contre toutes les attaques simultanées, mais ils n'ont droit qu'à une seule attaque par **Round**. Un *Round* se termine quand tous les personnages du Combat ont fait une attaque, et tous les Dommages ont été calculés et appliqués.
+
+Un personnage avec un 
+
+
+
+
+
+
 
 
 

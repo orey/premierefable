@@ -130,7 +130,7 @@ Teagan cherche durant un moment ce qui pourrait causer des ennuis à Ruby. Elle 
 
 ### Etape 4 : Choisir un Truc Spécial
 
-Teagan a déjà choisi le truc Truc Spécial de son personnage. Ruby a comme animal domestique un chat de la forêt, ressemblant à un tigre avec de la fourrure grise et noire, et répondant au doux nom de "Flamboyante". Flamboyante est une grande sensible, mais elle peut grogner fortement et effrayer les gens.
+Teagan a déjà choisi le truc Truc Spécial de son personnage. Ruby a comme animal domestique un chat des bois, ressemblant à un tigre avec de la fourrure grise et noire, et répondant au doux nom de "Flamboyante". Flamboyante est une grande sensible, mais elle peut grogner fortement et effrayer les gens.
 
 Teagan a alors terminé de remplir sa feuille de personnage. Elle est prête à démarrer !
 
