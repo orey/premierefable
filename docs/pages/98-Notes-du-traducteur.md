@@ -25,6 +25,7 @@ Blessé | Hurt
 
 Traduction | Nom original anglais
 ---------------|-------------
+Grande Personne (GP) | Grown-Up (GU)
 Dahu | Guffin [[1](#note1)]
 Amoureuse des animaux | Animal Keeper [[2](#note2)]
 Talent | Shine [[3](#note3)]

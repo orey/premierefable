@@ -1,3 +1,5 @@
+![Pirate sur un navire](../images/combat-garde.png)
+
 # Règles du jeu
 
 Les règles du jeu de PremièreFable sont simples. Tout ce qu'un personnage peut vouloir faire dans le jeu sera soit une Tâche, soit un Défi. Les dés sont impliqués uniquement quand un personnage entre dans un Défi, c'est pourquoi nous commencerons par expliquer les Défis.
@@ -138,9 +140,33 @@ Un personnage peut choisir de sortir du combat à tout moment, mais une fois que
 
 Les personnages peuvent se défendre contre toutes les attaques simultanées, mais ils n'ont droit qu'à une seule attaque par **Round**. Un *Round* se termine quand tous les personnages du Combat ont fait une attaque, et tous les Dommages ont été calculés et appliqués.
 
-Un personnage avec un 
+Un personnage avec un Truc Spécial capable d'attaquer de son propre chef (comme un animal de compagnie) peut faire une seconde attaque *ou* additionner des Etoiles en provenance du Truc Spécial à l'attaque du personnage. Cependant, si le truc Spécial mène sa propre attaque, le défenseur a droit à une défense.
 
+### Exemple de combat
 
+Roland, Sela, Ruby et Blake se retrouvent ensemble dans le Bois des Gobelins et recherchent le petit garçon fuyard (qui s'est avéré être le cousin de Blake). Ils découvrent que le garçon a été enlevé par des gobelins, et les personnages doivent le trouver avant qu'il ne se transforma, à son tour, en gobelin ! Alors qu'ils se frayent un chemin dans un buisson de ronces, ils tombent face à face avec un gobelin voûté vêtu d'une toge : un sorcier gobelin. Il agite ses doigts en direction des personnages et leur demande de partir. "L'enfant est à nous maintenant !"
+
+"Ha !" dit Roland, qui charge en sortant son épée. La GP demande à Roland s'il veut juste effrayer le sorcier ou combattre. Le joueur de Roland dit qu'il veut se battre, ce qui fait que la GP demande aux joueurs de déterminer leurs Dommages.
+
+![Aigle volant une bague](../images/combat.png)
+
+Le joueur de Roland fixe ses Dommages à 6, ce qui est risqué car Roland pourrait être blessé. Le joueur de Ruby positionne ses Dommages à 3, le joueur de Blake à 4 et leur joueur de Sela à 1. La GP fixe les dommages du sorcier gobelin à 5.
+
+Au premier round, Roland attaque le sorcier. Il lance Force 4 + Combat à l'Epée 1 = 5 dés. La GP lance pour le sorcier Vitesse 4 + Distraction Magique 2 = 6 dés. Roland obtient 3 Etoiles et la GP 2. Le sorcier prend une étoile de Dommages. S'il en prend encore 4, il est hors combat. Roland découpe le vêtement du Sorcier avec sa lame. "Maintenant, scélérat, dit Roland, où est le garçon ?"
+
+Le sorcier grogne "*chetz wubba !*" (aucun personnage ne parle gobelin, mais cela sonne vraiment très désagréablement) et jette une boule de feu au groupe. Parce que le gobelin utilise son Truc Spécial (Magie des Gobelins), la GP dit au groupe qu'il les attaque tous d'un seul coup. La GP tire pour le sorcier Vitesse 4 et ajoute 3 Etoiles du Talent Magie des Gobelins.
+
+Les joueurs se défendent. Roland décide de rester là et d'encaisser, espérant que son armure ne le sauve (son joueur fait un jet de Force 4) Blake, Sela et Ruby décide d'esquiver en faisant un jet de Vitesse. Tout le monde fait son jet et compare les résultats. La GP jette une seule fois les dés et compare ses résultats avec les joueurs.
+
+Sela prend une Etoile de Dommage, et elle sort donc du Combat puisque c'est tout ce qu'elle pouvait encaisser. Son joueur décide que ses ailes sont légèrement brûlées, et elle chute sur le sol, confuse.
+
+Blake fait un bon jet, et ne prend aucune Etoile de Dommage. Il esquive clairement et se sauvegarde.
+
+Ruby prend deux Etoiles de Dommages, mais elle peut encore en prendre une avant de sortir du Combat. Le feu brûle un peu sa chemise, mais elle appelle Blaze à ses côtés pour préparer son attaque.
+
+Le pauvre joueur de Roland, lui, n'obtient aucune Etoile sur son jet de défense. La boule de feu atteint Roland avec une pleine puissance, l'assommant et brûlant son armure ! Il prend 4 Etoiles de Dommages. Il est hors combat et il est blessé. Il pend une pénalité de -1 dé sur tous les Défis à venir tant que quelqu'un ne l'a pas soigné, et il prend un nouveau Point Faible jusqu'à la fin de l'aventure. La GP décide que ce Point Faible sera la Vue : le feu a brûlé son visage et ses yeux ont été touchés.
+
+Le combat fait rage mais maintenant, seuls Blake et Ruby se battent contre le sorcier. Pour autant, le sorcier n'a plus que 2 Etoiles restant en Magie des Gobelins, et Blake et Ruby sont des combattants de bon niveau.
 
 
 

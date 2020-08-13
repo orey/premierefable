@@ -21,4 +21,4 @@ nav:
     - 'To do list': 'pages/99-To-Do-list.md'
 extra:
     logo: ./docs/images/logo.png
-    version: v1.0
+    version: v0.9
