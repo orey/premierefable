@@ -5,9 +5,6 @@ copyright: Site sous licence Creative Common v3
 google_analytics: ['UA-110156293-1', 'orey.github.io']
 theme: windmill
 site_dir: site
-extra:
-    logo: docs/image/logo.png
-    version: v1.0
 nav:
 - 'Home': 'index.md'
 - 'PremièreFable, le jeu':
@@ -22,3 +19,6 @@ nav:
     - 'License': 'pages/LICENCE.md'
     - 'Notes du traducteur': 'pages/98-Notes-du-traducteur.md'
     - 'To do list': 'pages/99-To-Do-list.md'
+extra:
+    logo: docs/images/logo.png
+    version: v1.0
