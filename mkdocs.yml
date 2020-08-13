@@ -20,5 +20,5 @@ nav:
     - 'Notes du traducteur': 'pages/98-Notes-du-traducteur.md'
     - 'To do list': 'pages/99-To-Do-list.md'
 extra:
-    logo: images/logo.png
+    logo: ./docs/images/logo.png
     version: v1.0
