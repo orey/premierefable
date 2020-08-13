@@ -5,6 +5,9 @@ copyright: Site sous licence Creative Common v3
 google_analytics: ['UA-110156293-1', 'orey.github.io']
 theme: windmill
 site_dir: site
+extra:
+    extra.logo: 'image/firstfable-small.png'
+    extra.version: 1.0
 nav:
 - 'Home': 'index.md'
 - 'PremièreFable, le jeu':
