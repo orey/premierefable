@@ -6,3 +6,5 @@
 
 <a name="note3"></a>[3] Le terme original est "Shine" ce qui pourrait se traduire littéralement par "Est brillant à". Cette formulation est peu aisée dans le jeu, aussi j'ai choisi de traduire "Shine" par "talents", même si ce terme paraît un peu moins fort que le terme anglais original.
 
+<a name="note4"></a>[4] Le terme original est "Contest", ce qui est généralement traduit par "concours". Mais dans le cas présent, ce concours a plutôt un sens de compétition entre 2 personnages, d'où le terme choisi "Face à Face".
+
