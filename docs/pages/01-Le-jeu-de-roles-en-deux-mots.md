@@ -1,5 +1,7 @@
 # Qu'est-ce que je jeu de rôles ?
 
+![Frontpage](../images/frontpage.png)
+
 Même si PremièreFable suppose que vous êtes un rôliste espérant initier vos enfants à votre hobby, il est aussi possible que vous ayez choisi ce jeu dans l'espoir de partager des bons moments avec vos enfants, mais que vous n'ayez jamais pratiqué aucun jeu de rôle.
 
 Ne vous tracassez pas. Voici la version courte de ce que vous avez besoin de savoir.

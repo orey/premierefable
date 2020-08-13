@@ -1,5 +1,7 @@
 # Bienvenue à PremièreFable !
 
+![Intro](../images/intro.png)
+
 Si vous lisez cela, il y a de grandes chances que vous vouliez initier des enfants à la joie du jeu de rôles. Quand les joueurs de jeu de rôles deviennent plus vieux, qu'ils ont des enfants et qu'ils les voient grandir, il est naturel que nous voulions initier les personnes que nous aimons le plus au hobby que nous aimons le plus.
 
 Mais est-ce réellement si simple ?

@@ -129,6 +129,8 @@ Les joueurs peuvent fixer leurs Dommages à la valeur suivante :
 
 Pour un nouveau personnage, le maximum de Dommages pouvant être fixé dans un Combat est 12 (9 pour les Caractéristiques et 3 pour les Talents. Mais fixer les Dommages aussi haut est risqué, car si un personnage endure plus de dommages que le maximum de son score dans une Caractéristique ou un Talent, le personnage devient **Blessé**.
 
+*NDT : la règle n'est pas de la plus grande clarté, surtout au vu de l'exemple ci-après (combat de Roland). Nous prendrons comme règle : si, en un seul coup, durant un combat, le personnage prend des dommages supérieurs ou égaux à sa plus haute caractéristique, il est alors blessé. Cela ne le fait pas pour autant sortir du Combat automatiquement. Il peut continuer le Combat avec un malus de -1D.*
+
 Les personnages Blessés :
 
 * Perdent 1 dé pour tous leurs Défis ;

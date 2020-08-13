@@ -19,6 +19,7 @@ Le jeu est composé uniquement de trois chapitres, garnis de nombreux exemples :
 * [Introduction](pages/02-Introduction.md)
 * [Création des personnages](pages/03-Creation-des-personnages.md)
 * [Règles du jeu](pages/04-Regles-du-jeu.md)
+* [Gérer le déroulement du jeu](pages/05-Diriger-le-jeu.md)
 
 Le scénario d'introduction :
 

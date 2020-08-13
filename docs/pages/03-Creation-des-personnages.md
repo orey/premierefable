@@ -1,5 +1,7 @@
 # Création des personnages
 
+![Character](../images/character.png)
+
 Afin de jouer à PremièreFable, chaque joueur nécessite un personnage (la GP n'a pas son propre personnage ; en lieu et place, la GP va jouer tous les autres personnages incluant les alliés, les ennemis, les passants et même les animaux). Créer un personnage est rapide et facile et peut être fait en 4 étapes. A chaque étape, nous expliquons comment faire, et nous répondons aux questions qui peuvent se poser.
 
 Première fable inclut des _Livres de Personnages_ qui aident les joueurs avec les étapes de création du personnage. Le Livre de Personnage inclut des questions et des étapes de création qui ne sont pas couvertes dans le livre pour GP (le présent guide), parce qu'elles n'ont pas d'impact immédiat pour le système de jeu (ils sont utiles pour aider les joueurs à donner un peu de matière à leurs personnages). La GP devrait vraiment lire les Livres de Personnages afin de pouvoir aider les joueurs dans leur création, et de pouvoir répondre à leurs questions.
@@ -114,24 +116,46 @@ La petite Teagan va jouer à PremièreFable, elle a donc besoin de créer un per
 
 Teagan choisit Amoureuse des Animaux. Elle souhaite que son personnage ait un gros chat tigré comme ami. La GP lui demande de s'en souvenir car elle devra choisir un Truc Spécial plus tard. Teagan nomme son personnage "Ruby". Elle écrit les nombres sur sa feuille de personnage :
 
-  * Force : 3,
-  * Vitesse : 2,
-  * Intelligence : 4.
+Nom du personnage | Type de personnage
+---|---
+Ruby | Amoureuse des Animaux
+
+Caractéristiques
+
+Force | Vitesse | Intelligence
+---|---|---
+3 | 2 | 4
 
 Teagan est un peu déçue de son score en Vitesse mais la GP lui demande d'attendre l'étape suivante.
 
 ### Etape 2 : Quels sont les Talents de votre personnage ?
 
-Teagan décide que son personnage est très rapide, même en courant dans les bois. Elle prend "Galoper" comme Talent. Elle veut aussi que Ruby soit bonne avec les animaux. La GP lui demande ce qu'elle entend par là : que veut-elle faire avec les animaux ? Les dresser ? Leur parler ? En prendre soin ? Teagan réfléchit (souvenons-nous que Ruby peut déjà faire tout cela étant donné que cela fait du sens pour une Amoureuse des Animaux), et décide que le second Talent de Ruby sera "Prendre soin des animaux blessés". Pour le dernier Talent, Teagan voudrait que Ruby soit capable de "Lancer des choses". C'est acceptable  pour la GP qui aide alors Teagan à renseigner tout cela sur sa feuille de personnage.
+Teagan décide que son personnage est très rapide, même en courant dans les bois. Elle prend "Galoper" comme Talent. Elle veut aussi que Ruby soit bonne avec les animaux. La GP lui demande ce qu'elle entend par là : que veut-elle faire avec les animaux ? Les dresser ? Leur parler ? En prendre soin ? Teagan réfléchit (souvenons-nous que Ruby peut déjà faire tout cela étant donné que cela fait du sens pour une Amoureuse des Animaux), et décide que le second Talent de Ruby sera "Soigner les animaux blessés". Pour le dernier Talent, Teagan voudrait que Ruby soit capable de "Lancer des choses". C'est acceptable  pour la GP qui aide alors Teagan à renseigner tout cela sur sa feuille de personnage.
+
+Talent | Score
+---|---
+Galoper | 1
+Soigner les animaux blessés | 1
+Lancer des choses | 1
 
 ### Etape 3 : Quel est le Point Faible de votre personnage ?
 
 Teagan cherche durant un moment ce qui pourrait causer des ennuis à Ruby. Elle décide que Ruby ne sait pas "Faire du camping". Ele prend toujours des échardes dans les mains lorsqu'elle tente de faire du feu, ce genre de choses.
+
+Point Faible | Score
+---|---
+Faire du camping | 1
+
 
 ### Etape 4 : Choisir un Truc Spécial
 
 Teagan a déjà choisi le truc Truc Spécial de son personnage. Ruby a comme animal domestique un chat des bois, ressemblant à un tigre avec de la fourrure grise et noire, et répondant au doux nom de "Flamboyante". Flamboyante est une grande sensible, mais elle peut grogner fortement et effrayer les gens.
 
 Teagan a alors terminé de remplir sa feuille de personnage. Elle est prête à démarrer !
+
+Truc spéciaux | Effets | Etoiles
+---|---|---
+Flamboyante (Animal de compagnie) | Grognement effrayant | 5
+- | - | -
 
 
