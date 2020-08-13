@@ -32,7 +32,7 @@ Pour les rôlistes aguerris, voir la synthèse du jeu faite par le traducteur :
 
 PremièreFable est une traduction du jeu américain pour enfants de 8 à 12 ans de _Matthew McFarland_, **FirstFable**. Le jeu original peut être trouvé gratuitement sur [DriveThruPRG](https://www.drivethrurpg.com/product/107399/FirstFable).
 
-Il est disponible sous licence [Creative Common](http://creativecommons.org/licenses/by-nc-sa/3.0) ainsi qu'[ici](about/LICENCE.md). La version française, traduite par Olivier Rey, est sous licence Creative Common, comme la version originale.
+Il est disponible sous licence [Creative Common](http://creativecommons.org/licenses/by-nc-sa/3.0) ainsi qu'[ici](pages/LICENCE.md). La version française, traduite par Olivier Rey, est sous licence Creative Common, comme la version originale.
 
 ## Autres pages
 

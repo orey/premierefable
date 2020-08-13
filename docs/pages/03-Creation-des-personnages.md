@@ -10,7 +10,7 @@ Ce livre inclut 4 types de personnages:
 
   * Le Chevalier,
   * La Princesse Fée,,
-  * L'Amoureuse des Animaux, [[2](98-Notes-du-traducteur#note2)],
+  * L'Amoureuse des Animaux, [[2](98-Notes-du-traducteur.md#note2)],
   * Le Pirate.
 
 Un personnage est déterminé par ses valeurs en Force, Vitesse et Intelligence.
@@ -36,7 +36,7 @@ Nous devrions, dans le futur, proposer de nouveaux types de personnages pour Pre
 
 ### Que faire si je veux jouer un chevalier plus intelligent ou une amoureuse des animaux plus rapide ?
 
-Une façon de faire la différence si vous avez un score bas dans une des caractéristiques est d'utiliser les Talents [[3](98-Notes-du-traducteur#note3)]. Mais si vous voulez ajuster les chiffres, allez-y.
+Une façon de faire la différence si vous avez un score bas dans une des caractéristiques est d'utiliser les Talents [[3](98-Notes-du-traducteur.md#note3)]. Mais si vous voulez ajuster les chiffres, allez-y.
 
 Les trois caractéristiques :
 
