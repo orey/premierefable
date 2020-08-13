@@ -39,6 +39,11 @@
               {title: "4. Truc Sp\u00e9cial", url: "#4-truc-special" },
           ]},
           {title: "R\u00e8gles", url: "#regles", children: [
+              {title: "1. D\u00e9fi", url: "#1-defi" },
+              {title: "2. Face \u00e0 Face", url: "#2-face-a-face" },
+              {title: "3. T\u00e2ches", url: "#3-taches" },
+              {title: "4. Utilisation des Trucs Sp\u00e9ciaux", url: "#4-utilisation-des-trucs-speciaux" },
+              {title: "5. Combat", url: "#5-combat" },
           ]},
         ];
 
@@ -84,10 +89,10 @@ if (is_top_frame) { $('body').addClass('wm-top-page'); }
     </div>
     
     <div class="wm-article-nav">
-      <a href="../04-Regles-du-jeu/" class="btn btn-xs btn-default pull-left">
+      <a href="../05-Diriger-le-jeu/" class="btn btn-xs btn-default pull-left">
         <i class="fa fa-chevron-left" aria-hidden="true"></i>
-        Previous</a><a href="../04-Regles-du-jeu/" class="btn btn-xs btn-link">
-        Règles du jeu
+        Previous</a><a href="../05-Diriger-le-jeu/" class="btn btn-xs btn-link">
+        Gérer le déroulement du jeu
       </a>
     </div>
     
@@ -113,25 +118,25 @@ if (is_top_frame) { $('body').addClass('wm-top-page'); }
 </thead>
 <tbody>
 <tr>
-<td>Amoureuse des Animaux</td>
+<td><strong>Amoureuse des Animaux</strong></td>
 <td>3</td>
 <td>2</td>
 <td>4</td>
 </tr>
 <tr>
-<td>Princesse Fée</td>
+<td><strong>Princesse Fée</strong></td>
 <td>2</td>
 <td>4</td>
 <td>3</td>
 </tr>
 <tr>
-<td>Chevalier</td>
+<td><strong>Chevalier</strong></td>
 <td>4</td>
 <td>3</td>
 <td>2</td>
 </tr>
 <tr>
-<td>Pirate</td>
+<td><strong>Pirate</strong></td>
 <td>3</td>
 <td>3</td>
 <td>3</td>
@@ -140,20 +145,20 @@ if (is_top_frame) { $('body').addClass('wm-top-page'); }
 </table>
 <p>Potentiellement, la répartition des scores peut être différente, mais :</p>
 <ul>
-<li>Le total des caractéristiques doit faire 9.</li>
+<li>Le total des caractéristiques doit faire <strong>9</strong>.</li>
 <li>Les caractéristiques ne peuvent pas être inférieures à 2 à la création du personnage.</li>
 </ul>
 <h3 id="2-talents">2. Talents</h3>
 <ul>
-<li>Choisir 3 Talents avec une caractéristique de 1.</li>
+<li>Choisir <strong>3 Talents</strong> avec une caractéristique de 1.</li>
 </ul>
 <h3 id="3-point-faible">3. Point Faible</h3>
 <ul>
-<li>Choisir un Point faible.</li>
+<li>Choisir <strong>1 Point faible</strong>.</li>
 </ul>
 <h3 id="4-truc-special">4. Truc Spécial</h3>
 <ul>
-<li>Choisir un Truc Spécial.</li>
+<li>Choisir <strong>1 Truc Spécial</strong>.</li>
 </ul>
 <p>Les Trucs Spéciaux peuvent être :</p>
 <ul>
@@ -164,7 +169,103 @@ if (is_top_frame) { $('body').addClass('wm-top-page'); }
 </ul>
 <p>Le Truc Spécial possède 5 étoiles à la création du personnage.</p>
 <h2 id="regles">Règles</h2>
-<p>TBD</p>
+<h3 id="1-defi">1. Défi</h3>
+<ul>
+<li>Nombre de dés à lancer : <strong>Caractéristique + Talent - Point faible</strong></li>
+<li>1 Etoile = 4, 5 ou 6 sur 1D6</li>
+</ul>
+<p>Table de succès</p>
+<table>
+<thead>
+<tr>
+<th>Nombre d'étoiles</th>
+<th>Type de succès</th>
+<th>Commentaire</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>0</td>
+<td>Echec</td>
+<td>-</td>
+</tr>
+<tr>
+<td>1-2</td>
+<td>Réussite a minima</td>
+<td>-</td>
+</tr>
+<tr>
+<td>3-4</td>
+<td>Réussite normale</td>
+<td>-</td>
+</tr>
+<tr>
+<td>5+</td>
+<td>Réussite fantastique</td>
+<td>-</td>
+</tr>
+<tr>
+<td>Tous les dés du tirage</td>
+<td><strong>Progression</strong></td>
+<td>Nouveau Talent ou +1 à un Talent existant</td>
+</tr>
+</tbody>
+</table>
+<h3 id="2-face-a-face">2. Face à Face</h3>
+<ul>
+<li>Celui qui a le plus d'étoiles l'emporte.</li>
+</ul>
+<h3 id="3-taches">3. Tâches</h3>
+<ul>
+<li>Simples actions sans jeté de dé.</li>
+</ul>
+<h3 id="4-utilisation-des-trucs-speciaux">4. Utilisation des Trucs Spéciaux</h3>
+<ul>
+<li>Un Truc Spécial a un nombre d'Etoiles que l'on peut utiliser pendant une partie.</li>
+<li>Certains Trucs Spéciaux se régénèrent, d'autres se consomment.</li>
+</ul>
+<h3 id="5-combat">5. Combat</h3>
+<p>Séquence</p>
+<table>
+<thead>
+<tr>
+<th>Etape</th>
+<th>Objet</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>Annoncer les Dommages</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Une attaque par round / 1 défense par attaque</td>
+</tr>
+<tr>
+<td>3</td>
+<td>Face à Face  (généralement sur Force / Vitesse + Talents) ; un attaquant / un défenseur</td>
+</tr>
+<tr>
+<td>4</td>
+<td>Dommage réel = Nombre d'Etoiles de l'attaquant - Nombre d'Etoiles du défenseur ; à retirer des Dommages</td>
+</tr>
+</tbody>
+</table>
+<p>Dommages</p>
+<ul>
+<li>Maximum = somme de toutes les caractéristiques et de tous les talents (12 pour un personnage débutant)</li>
+</ul>
+<p>Blessure</p>
+<ul>
+<li>Condition : perdre en un coup un nombre supérieur ou égal au maximum de ses caractéristiques/talents (généralement 4)</li>
+</ul>
+<p>Conséquences</p>
+<ul>
+<li>Un Point Faible de plus en lien avec la blessure</li>
+<li>-1D6 à tous les Défis ultérieurs jusqu'à guérison</li>
+</ul>
+<p>Voir la précision proposée de la règle sur les Dommages et les Blessures sur la page <a href="../04-Regles-du-jeu/">Règle du jeu</a>.</p>
 
   <br>
     
@@ -187,10 +288,10 @@ if (is_top_frame) { $('body').addClass('wm-top-page'); }
     </div>
     
     <div class="wm-article-nav">
-      <a href="../04-Regles-du-jeu/" class="btn btn-xs btn-default pull-left">
+      <a href="../05-Diriger-le-jeu/" class="btn btn-xs btn-default pull-left">
         <i class="fa fa-chevron-left" aria-hidden="true"></i>
-        Previous</a><a href="../04-Regles-du-jeu/" class="btn btn-xs btn-link">
-        Règles du jeu
+        Previous</a><a href="../05-Diriger-le-jeu/" class="btn btn-xs btn-link">
+        Gérer le déroulement du jeu
       </a>
     </div>
     
