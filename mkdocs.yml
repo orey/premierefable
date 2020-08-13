@@ -5,7 +5,7 @@ copyright: Site sous licence Creative Common v3
 google_analytics: ['UA-110156293-1', 'orey.github.io']
 theme: windmill
 site_dir: site
-pages:
+nav:
 - 'Home': 'index.md'
 - 'PremièreFable, le jeu':
     - 'Qu''est-ce que le jeu de rôles ?': 'pages/01-Le-jeu-de-roles-en-deux-mots.md'

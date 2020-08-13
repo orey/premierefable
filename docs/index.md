@@ -38,4 +38,3 @@ Il est disponible sous licence [Creative Common](http://creativecommons.org/lice
 
 * [Notes de traduction](pages/98-Notes-du-traducteur.md)
 * [To do list](pages/99-To-Do-list.md) pour le traducteur
-* [A propos](about/about.md)
