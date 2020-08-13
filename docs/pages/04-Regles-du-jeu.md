@@ -1,6 +1,6 @@
-![Pirate sur un navire](../images/combat-garde.png)
-
 # Règles du jeu
+
+![Pirate sur un navire](../images/combat-garde.png)
 
 Les règles du jeu de PremièreFable sont simples. Tout ce qu'un personnage peut vouloir faire dans le jeu sera soit une Tâche, soit un Défi. Les dés sont impliqués uniquement quand un personnage entre dans un Défi, c'est pourquoi nous commencerons par expliquer les Défis.
 
@@ -55,7 +55,7 @@ _Résultat n°3_
 
 Le joueur de Blake obtient 4, 4, 5 et 4 et le joueur de Roland obtient 3, 4, 4, 5 et 6. Les deux joueurs obtiennent 4 Etoiles, mais pour Blake, c'est une Progression. Blake tient son rocher pendant un long moment, même s'il est clair que Roland était plus fort et que l'exercice lui était plus facile. Quand ils lâchent enfin le rocher, tous les spectateurs les congratulent et sont stupéfaits de l'endurance de Blake. Le joueur de Blake ajoute "N'abandonne jamais 1" comme nouveau Talent lié à la Force.
 
-## Les tâches
+## Les Tâches
 
 Une Tâche est une simple action qui fait avancer l'histoire, mais c'est quelque chose que le personnage peut faire relativement facilement. Puisqu'aucun dé n'est jeté, le personnage ne doit pas compter les Etoiles et n'a aucune chance d'augmenter un Talent.
 
