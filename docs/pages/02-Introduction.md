@@ -28,7 +28,7 @@ PremièreFable, comme la plupart des jeux de rôles, ne propose pas de moyens po
 
 ## Le jeu PremièreFable
 
-Le reste de ce livre explique comment paramétrer les personnages et comment le système de jeu fonctionne. Nous fournissons aussi des conseils pour mener le jeu, garder les joueurs impliqués, et s'assurer que tout le monde s'amuse. Enfin, nous finissons ce livre avec [La chasse au Dahu sauvage](05-La-chasse-au-Dahu-sauvage.md), une quête pour 4 joueurs impliquant la découverte de cette bête mythique.
+Le reste de ce livre explique comment paramétrer les personnages et comment le système de jeu fonctionne. Nous fournissons aussi des conseils pour mener le jeu, garder les joueurs impliqués, et s'assurer que tout le monde s'amuse. Enfin, nous finissons ce livre avec [La chasse au Dahu sauvage](06-La-chasse-au-Dahu-sauvage.md), une quête pour 4 joueurs impliquant la découverte de cette bête mythique.
 
 Pour jouer avec PremièreFable, vous aurez besoin :
 

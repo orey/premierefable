@@ -15,7 +15,7 @@ nav:
     - 'Gérer le déroulement du jeu': 'pages/05-Diriger-le-jeu.md'
     - 'Synthèse du jeu': 'pages/97-Synthese-du-jeu.md'
 - 'Scénarios':
-    - 'La chasse au Dahu sauvage': 'pages/05-La-chasse-au-Dahu-sauvage.md'
+    - 'La chasse au Dahu sauvage': 'pages/06-La-chasse-au-Dahu-sauvage.md'
 - 'A propos':
     - 'License': 'pages/LICENCE.md'
     - 'Notes du traducteur': 'pages/98-Notes-du-traducteur.md'
