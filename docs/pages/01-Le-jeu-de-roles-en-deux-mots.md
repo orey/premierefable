@@ -8,7 +8,7 @@ Ne vous tracassez pas. Voici la version courte de ce que vous avez besoin de sav
 
 ## Le jeu
 
-Tout d'abord, dans les jeux de rôles, les joueurs prennent les rôles de personnes d'histoires. Ils tentent d'accomplir les objectifs définis par l'histoire que vous êtes en train de raconter. Dans le scénario "[La chasse au Dahu sauvage](05-La-chasse-au-Dahu-sauvage.md)" [[1](98-Notes-du-traducteur.md#note1)], par exemple, le but de l'histoire est de poursuivre un animal mythique qu'aucune personne vivante n'a jamais vu auparavant.
+Tout d'abord, dans les jeux de rôles, les joueurs prennent les rôles de personnes d'histoires. Ils tentent d'accomplir les objectifs définis par l'histoire que vous êtes en train de raconter. Dans le scénario "[La chasse au Dahu sauvage](06-La-chasse-au-Dahu-sauvage.md)" [[1](98-Notes-du-traducteur.md#note1)], par exemple, le but de l'histoire est de poursuivre un animal mythique qu'aucune personne vivante n'a jamais vu auparavant.
 
 Ensuite, la plupart des jeux de rôles (incluant PremièreFable) proposent un moyen de résoudre des défis incluant des éléments de hasard.Beaucoup de jeux utilisent des dés, certains utilisant des cartes. Les systèmes pour lire et interpréter les dés ou les cartes varient grandement d'un jeu à l'autre. PremièreFable est relativement simple : jeter des dés à 6 faces classiques (ceux que vous trouvez dans la plupart des jeux de plateaux) et compter ceux dont le nombre est 4, 5 ou 6 (considérés comme des succès).
 

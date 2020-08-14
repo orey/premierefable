@@ -23,7 +23,7 @@ Le jeu est composé uniquement de trois chapitres, garnis de nombreux exemples :
 
 Le scénario d'introduction :
 
-* [La chasse au Dahu sauvage](pages/05-La-chasse-au-Dahu-sauvage.md)
+* [La chasse au Dahu sauvage](pages/06-La-chasse-au-Dahu-sauvage.md)
 
 Pour les rôlistes aguerris, voir la synthèse du jeu faite par le traducteur :
 
