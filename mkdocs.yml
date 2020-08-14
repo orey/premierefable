@@ -14,12 +14,15 @@ nav:
     - 'Règles du jeu': 'pages/04-Regles-du-jeu.md'
     - 'Gérer le déroulement du jeu': 'pages/05-Diriger-le-jeu.md'
     - 'Synthèse du jeu': 'pages/97-Synthese-du-jeu.md'
+    - 'Conclusion': 'pages/07-Conclusion.md'
+    - 'Contenu de la feuille de personnage': 'pages/09-fdp.md'
 - 'Scénarios':
     - 'La chasse au Dahu sauvage': 'pages/06-La-chasse-au-Dahu-sauvage.md'
 - 'A propos':
     - 'License': 'pages/LICENCE.md'
+    - 'PDF originaux en anglais': 'pages/08-FirstFable.md'
     - 'Notes du traducteur': 'pages/98-Notes-du-traducteur.md'
     - 'To do list': 'pages/99-To-Do-list.md'
 extra:
-    logo: images/logo.png
+    logo: images/logo-small.png
     version: v0.9

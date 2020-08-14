@@ -20,6 +20,8 @@ Le jeu est composé uniquement de trois chapitres, garnis de nombreux exemples :
 * [Création des personnages](pages/03-Creation-des-personnages.md)
 * [Règles du jeu](pages/04-Regles-du-jeu.md)
 * [Gérer le déroulement du jeu](pages/05-Diriger-le-jeu.md)
+* [Une conclusion sur le jeu](pages/07-Conclusion.md)
+* [Contenu de la feuille de personnage](pages/09-fdp.md)
 
 Le scénario d'introduction :
 
@@ -31,7 +33,7 @@ Pour les rôlistes aguerris, voir la synthèse du jeu faite par le traducteur :
 
 ## Crédits
 
-PremièreFable est une traduction du jeu américain pour enfants de 8 à 12 ans de _Matthew McFarland_, **FirstFable**. Le jeu original peut être trouvé gratuitement sur [DriveThruPRG](https://www.drivethrurpg.com/product/107399/FirstFable).
+PremièreFable est une traduction du jeu américain pour enfants de 8 à 12 ans de _Matthew McFarland_, **FirstFable**. Le jeu original peut être trouvé gratuitement sur [DriveThruPRG](https://www.drivethrurpg.com/product/107399/FirstFable) ou sur [cette page](pages/08-FirstFable.md).
 
 Il est disponible sous licence [Creative Common](http://creativecommons.org/licenses/by-nc-sa/3.0) ainsi qu'[ici](pages/LICENCE.md). La version française, traduite par Olivier Rey, est sous licence Creative Common, comme la version originale.
 

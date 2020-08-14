@@ -122,9 +122,9 @@ Ruby | Amoureuse des Animaux
 
 Caractéristiques
 
-Force | Vitesse | Intelligence
----|---|---
-3 | 2 | 4
+Caractéristique | Force | Vitesse | Intelligence
+---|---|---|---
+**Score** |3 | 2 | 4
 
 Teagan est un peu déçue de son score en Vitesse mais la GP lui demande d'attendre l'étape suivante.
 
@@ -156,6 +156,5 @@ Teagan a alors terminé de remplir sa feuille de personnage. Elle est prête à 
 Truc spéciaux | Effets | Etoiles
 ---|---|---
 Flamboyante (Animal de compagnie) | Grognement effrayant | 5
-- | - | -
 
 
