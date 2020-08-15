@@ -25,7 +25,7 @@ Potentiellement, la répartition des scores peut être différente, mais :
 
 ### 3. Point Faible
 
-* Choisir **1 Point faible**.
+* Choisir **1 Point faible** (score 1).
 
 ### 4. Truc Spécial
 
@@ -64,10 +64,11 @@ Tous les dés du tirage | **Progression**  | Nouveau Talent ou +1 à un Talent e
 ### 3. Tâches
 
 * Simples actions sans jeté de dé.
+* Il est possible de préparer un Défi et de gagner +1D en bonus.
 
 ### 4. Utilisation des Trucs Spéciaux
 
-* Un Truc Spécial a un nombre d'Etoiles que l'on peut utiliser pendant une partie.
+* Un Truc Spécial a un nombre d'Etoiles que l'on peut utiliser pendant une partie. Une fois utilisées, les Etoiles sont dites "consommées".
 * Certains Trucs Spéciaux se régénèrent, d'autres se consomment.
 
 ### 5. Combat
@@ -76,7 +77,7 @@ Séquence
 
 Etape | Objet
 ---|---
-1 | Annoncer les Dommages
+1 | Annoncer les Dommages maximum que le personnage prendra dans le combat
 2 | Une attaque par round / 1 défense par attaque
 3 | Face à Face  (généralement sur Force / Vitesse + Talents) ; un attaquant / un défenseur
 4 | Dommage réel = Nombre d'Etoiles de l'attaquant - Nombre d'Etoiles du défenseur ; à retirer des Dommages

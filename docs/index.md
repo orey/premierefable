@@ -1,6 +1,6 @@
 ![FirstFable Guide Book](images/firstfable.png)
 
-# Bienvenue à PremièreFable !
+# Bienvenue à PremièreFable le JDR !
 
 ## Un jeu de rôles pour enfants de 8 à 12 ans
 

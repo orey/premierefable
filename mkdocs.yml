@@ -7,7 +7,7 @@ theme: windmill
 site_dir: site
 nav:
 - 'Home': 'index.md'
-- 'PremièreFable, le jeu':
+- 'PremièreFable, le JDR pour enfants':
     - 'Qu''est-ce que le jeu de rôles ?': 'pages/01-Le-jeu-de-roles-en-deux-mots.md'
     - 'Introduction': 'pages/02-Introduction.md'
     - 'Création des personnages': 'pages/03-Creation-des-personnages.md'
